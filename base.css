@@ -1,0 +1,38 @@
+
+
+
+  html, body {
+    font: 16pt arial;
+}
+
+#viz {
+    width: 100%;
+    height: 700px;
+    border: 1px solid lightgray;
+    font: 22pt arial;
+}
+
+.main_{
+  width: 100%;
+  display: block;
+}
+
+.m1{
+  /* margin-right: 50%;
+  margin-top: 100px; 
+  display: inline-block; */
+  float: left;
+  width: 70%;
+
+}
+
+.m2{
+  /* display: inline-block; */
+  margin-top: 20%;
+  float: right;
+  width: 25%;
+
+    /* margin-left: 50%;
+    margin-top: 100px; */
+
+}
